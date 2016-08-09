@@ -1,6 +1,11 @@
 # Chromatic
 Explore, visualize, and prototype your UI components.
 
+You can use Chromatic component explorer in your Meteor + React app with meteor add mdg:chromatic. Similar projects built in React are UI Harness(http://www.uiharness.com/) by Phil Cockfield and React Storybook by Arunoda Susiripala (https://github.com/kadirahq/react-storybook).
+
+Meteor guide (https://guide.meteor.com)
+
+
 ## Demo
 [![Chromatic demo video](https://raw.githubusercontent.com/meteor/chromatic/dom/more-documentation/thumbnail-video.png)](https://www.youtube.com/watch?v=dlMe7u02m50)
 
